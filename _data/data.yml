@@ -3,13 +3,13 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Jaden Bryan
     tagline: Product and Technical Project Manager
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: https://media-exp1.licdn.com/dms/image/C5603AQFVuNZ2BnXLCg/profile-displayphoto-shrink_800_800/0/1643060834926?e=1650499200&v=beta&t=2zCHR-Isqle2e_qqsSUT7A9MKTrNJfsD06uf2Cl4R34  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: jadenbryan@berkeley.edu
@@ -55,13 +55,13 @@ career-profile:
       Second paragraph if required.
 education:
     - degree: Bachelor of Arts - Data Science
-      university: University of California Berkeley - College of Letters and Science
+      university: College of Letters and Science| University of California Berkeley
       time: 2020-2023
       details: |
           - Domain emphasis in Business and Industrial Analytics
           - Classes: Data Structures, Data and Business Decisions, Software Engineering
-    - degree: B.S. in Business Administration w/ Concentration in Global Management
-      university: University of California, Berkeley - Haas School of Business
+    - degree: B.S. in Business Administration & Global Management
+      university: Walter A. Haas School of Business | University of California, Berkeley
       time: 2020-2023
       details: |
           - One of 30 students admitted to Haas as a Freshman through Global Management Program (~1% acceptance rate)
@@ -96,7 +96,7 @@ experiences:
           - Bullet point
 
     - role: Business Development Analyst
-      time: Fall 2022
+      time: Fall 2021
       company: New Zealand Trade and Enterprise
       details: |
           - Made headway for NZ’s economic development initiative helping businesses expand into US by providing market research, lead generation, and competitive analysis for clients including aerospace, clothing, and SaaS companies
@@ -104,17 +104,29 @@ experiences:
           - Helped integrate proprietary web API’s into company Power BI analysis, boosting productivity by 50%
       
     - role: Strategy Analyst
-      time: Fall 2022
+      time: Fall 2021
       company: Carvana (contract through CMG Strategy Consulting)
       details: | 
           - Provided two 80+ slide deliverables to inform Carvana on best practices for human capital attraction and retention 
           - Synthesized 12 academic research papers to provide recommendations for Carvana’s job design theory
           - Leveraged LinkedIn web scraper to source 1000+ customer service team members & managers for insight interviews 
       
+    - role: Product Manager
+      time: 2021
+      company: Lash Spell
+      details: | 
+          - Developed custom software solutions using GraphQL, Ruby, JavaScript, and PHP for a cosmetics startup
+          - Built influencer compliance software capable of scanning 100,000+ posts to meet requirements for a potential acquisition
+          - Adjusted website, SEO strategy, and marketing to 2.5x average click through rate across 4 different platforms
+
     - role: Data Science Analyst
       time: Spring 2022
       company: eBay (contact through CMG Strategy Consulting)
-      
+      details: |
+          - Utilized 3 custom web scrapers to create models to predict trending products for executive-level marketing team
+          - Using Python, integrated Reddit API data from over 600 subreddits and metadata from 300 TikTok hashtags to create a model that can accurately track the price of a collectible  throughout a bubble pattern 
+          - Led analysts as primary point of contact for developing scraping utilities and analyzing metadata output
+
 projects:
     title: Projects
     intro: >
