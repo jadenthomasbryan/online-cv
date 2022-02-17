@@ -53,13 +53,13 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
-    - degree: Bachelor of Arts - Data Science
+    - degree: B.A. - Data Science
       university: College of Letters and Science| University of California Berkeley
       time: 2020-2023
       details: |
           - Domain emphasis in Business and Industrial Analytics
           - Classes: Data Structures, Data and Business Decisions, Software Engineering
-    - degree: B.S. in Business Administration & Global Management
+    - degree: B.S. - Business Administration & Global Management
       university: Walter A. Haas School of Business | University of California, Berkeley
       time: 2020-2023
       details: |
@@ -86,13 +86,8 @@ experiences:
       time: Spring 2022
       company: Berkeley Food Collective
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        - Bullet point
+        - Bullet point
 
     - role: Business Development Analyst
       time: Fall 2021
@@ -106,25 +101,25 @@ experiences:
       time: Fall 2021
       company: Carvana (contract through CMG Strategy Consulting)
       details: | 
-          - Provided two 80+ slide deliverables to inform Carvana on best practices for human capital attraction and retention 
-          - Synthesized 12 academic research papers to provide recommendations for Carvana’s job design theory
-          - Leveraged LinkedIn web scraper to source 1000+ customer service team members & managers for insight interviews 
+        - Provided two 80+ slide deliverables to inform Carvana on best practices for human capital attraction and retention 
+        - Synthesized 12 academic research papers to provide recommendations for Carvana’s job design theory
+        - Leveraged LinkedIn web scraper to source 1000+ customer service team members & managers for insight interviews 
       
     - role: Product Manager
       time: 2021
       company: Lash Spell
       details: | 
-          - Developed custom software solutions using GraphQL, Ruby, JavaScript, and PHP for a cosmetics startup
-          - Built influencer compliance software capable of scanning 100,000+ posts to meet requirements for a potential acquisition
-          - Adjusted website, SEO strategy, and marketing to 2.5x average click through rate across 4 different platforms
+        - Developed custom software solutions using GraphQL, Ruby, JavaScript, and PHP for a cosmetics startup
+        - Built influencer compliance software capable of scanning 100,000+ posts to meet requirements for a potential acquisition
+        - Adjusted website, SEO strategy, and marketing to 2.5x average click through rate across 4 different platforms
 
     - role: Data Science Analyst
       time: Spring 2022
       company: eBay (contact through CMG Strategy Consulting)
       details: |
-          - Utilized 3 custom web scrapers to create models to predict trending products for executive-level marketing team
-          - Using Python, integrated Reddit API data from over 600 subreddits and metadata from 300 TikTok hashtags to create a model that can accurately track the price of a collectible  throughout a bubble pattern 
-          - Led analysts as primary point of contact for developing scraping utilities and analyzing metadata output
+        - Utilized 3 custom web scrapers to create models to predict trending products for executive-level marketing team
+        - Using Python, integrated Reddit API data from over 600 subreddits and metadata from 300 TikTok hashtags to create a model that can accurately track the price of a collectible  throughout a bubble pattern 
+        - Led analysts as primary point of contact for developing scraping utilities and analyzing metadata output
 
 projects:
     title: Projects
