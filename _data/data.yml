@@ -73,7 +73,7 @@ experiences:
       company: Intel | CMG Strategy Consulting
       details: |
         - Leading a team of 8 Analysts, 2 Senior Advisors, and 2 MBA Advisors to conduct market research and trend forecasting in the cloud computing, quantum computing, and machine learning industries  
-        - Sourced and compiled insights from 1200+ staff engineers and leaders leveraging private equity and custom web scraper to find contact information
+        - Sourced and compiled insights from 1200+ staff engineers and leaders leveraging private equity databases and custom web scraper to find contact information
         - Directly interfacing with Intel General Manager and FPGA Director to integrate insights into company strategy
 
     - role: Software Engineer
@@ -123,39 +123,42 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Gitlet
+        link: 
+        tagline: "Version control system with behavior and functionality similar to Gi"
 
-      - title: DevStudio
+      - title: Amplify my Affiliates
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "Webapp for Influencers to manage contracts via HelloSign API, payments, and sales"
 
-      - title: Tempo
+      - title: Forbidden Bible
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "B2B software that tracks a influencer's social media captions, TikTok and Instagram Reels transcripts to ensure compliance with contract policy"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Python 
+        level: 100%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Ruby on Rails
+        level: 100%
 
-      - name: Angular
-        level: 98%
+      - name: Agile
+        level: 90%
+      
+      - name: Excel
+        level: 90%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: Linux System Administration
+        level: 90%
 
       - name: Ruby on Rails
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Web Scraping
+        level: 75%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
