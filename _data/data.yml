@@ -143,16 +143,16 @@ skills:
       - name: Ruby on Rails
         level: 100%
 
-      - name: Agile
+      - name: Java
         level: 90%
       
+      - name: Agile
+        level: 90%
+
       - name: Excel
         level: 90%
 
       - name: Linux System Administration
-        level: 90%
-
-      - name: Ruby on Rails
         level: 85%
 
       - name: Web Scraping
