@@ -53,13 +53,13 @@ career-profile:
 education:
     - degree: B.A. - Data Science
       university: College of Letters and Science| University of California, Berkeley
-      time: 2020-2023
+      time: 2020-2024
       details: |
           - Domain emphasis in Business and Industrial Analytics
           - Classes: Data Structures, Data and Business Decisions, Software Engineering
     - degree: B.S. - Business Administration & Global Management
       university: Walter A. Haas School of Business | University of California, Berkeley
-      time: 2020-2023
+      time: 2020-2024
       details: |
           - One of 30 students admitted to Haas as a Freshman through Global Management Program (~1% acceptance rate)
           - Awards and Honors: 2nd Place Bill & Melinda Gates Case Competition, BNP Paribas Social Impact Pitch Winner
@@ -123,7 +123,7 @@ projects:
     assignments:
       - title: Gitlet
         link: 
-        tagline: "Version control system with behavior and functionality similar to Gi"
+        tagline: "Version control system with behavior and functionality similar to Git"
 
       - title: Amplify my Affiliates
         link: "#"
