@@ -73,15 +73,16 @@ experiences:
       company: Intel | CMG Strategy Consulting
       details: |
         - Leading a team of 8 Analysts, 2 Senior Advisors, and 2 MBA Advisors to conduct market research and trend forecasting in the cloud computing, quantum computing, and machine learning industries  
-        - Sourced and compiled insights from 1200+ staff engineers and leaders leveraging private equity and web metadata
-        - Directly interfacing with Intel's 
+        - Sourced and compiled insights from 1200+ staff engineers and leaders leveraging private equity and custom web scraper to find contact information
+        - Directly interfacing with Intel General Manager and FPGA Director to integrate insights into company strategy
 
     - role: Software Engineer
       time: Spring 2022
       company: Berkeley Food Collective
       details: |
-        - Bullet point
-        - Bullet point
+        - Volunteer Developer for the East Bay's leading provider of fresh, local, healthy food at extremely affordable prices
+        - Building volunteer management software that tracks tasks of 50+ volunteers for executive board's review
+        - Custom designing hardware integration with TinyPrinter platform that transforms application json data to physical tickets
 
     - role: Business Development Analyst
       time: Fall 2021
@@ -108,7 +109,7 @@ experiences:
         - Adjusted website, SEO strategy, and marketing to 2.5x average click through rate across 4 different platforms
 
     - role: Data Science Analyst
-      time: Spring 2022
+      time: Spring 2021
       company: eBay (contact through CMG Strategy Consulting)
       details: |
         - Utilized 3 custom web scrapers to create models to predict trending products for executive-level marketing team
