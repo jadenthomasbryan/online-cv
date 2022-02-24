@@ -52,7 +52,7 @@ career-profile:
       Love talking about marine science, open-source, digital freedom, and coffee.
 education:
     - degree: B.A. - Data Science
-      university: College of Letters and Science| University of California Berkeley
+      university: College of Letters and Science| University of California, Berkeley
       time: 2020-2023
       details: |
           - Domain emphasis in Business and Industrial Analytics
@@ -68,17 +68,13 @@ experiences:
       time: Summer 2022
       company: Palo Alto Networks 
 
-    - role: FPGA Solutions Project Manager
+    - role: FPGA Cloud Solutions Project Manager
       time: Spring 2022
-      company: Intel (contract through CMG Strategy Consulting)
+      company: Intel | CMG Strategy Consulting
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+      - Leading a team of 8 Analysts, 2 Senior Advisors, and 2 MBA Advisors to conduct
+        market research and trend forecasting in the cloud computing, quantum computing, and machine learning industries  
+      - Bullet point
 
     - role: Software Engineer
       time: Spring 2022
