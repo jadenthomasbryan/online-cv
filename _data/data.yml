@@ -7,17 +7,17 @@ sidebar:
     education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: 505064
+    name: Jaden Bryan
     tagline: Product and Technical Project Manager
-    avatar: hello-world(1).png
+    avatar: 1643060834926.jpg
     # Sidebar links
-    email: 
+    email: jadenbryan@berkeley.edu
     phone: 949 374 0983
     citizenship:
     website:  #do not add http://
-    linkedin:
+    linkedin: jaden-bryan
     xing: 
-    github: 
+    github: jtb-apps
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
