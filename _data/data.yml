@@ -64,9 +64,35 @@ education:
           - One of 30 students admitted to Haas as a Freshman through Global Management Program (~1% acceptance rate)
           - Awards and Honors: 2nd Place Bill & Melinda Gates Case Competition, BNP Paribas Social Impact Pitch Winner
 experiences:
-    - role: Incoming Intern - Product Owner / HRIS Analyst 
+      role: Technical Program Manager Intern
       time: Summer 2022
-      company: Palo Alto Networks 
+      company: Microsoft
+      details: |
+        - Microsoft Cloud for Industry, Energy Team
+      
+      role: Cloud Application Acceleration Business Development Intern
+      time: Spring 2022
+      company: Tendo
+      details: |
+        - Aided launch of FPGA as a Service product by managing partnership with CSP using Agile and Scrum methodology 
+        - Discovered market opportunities using Python to compare application performance across CPU, GPU, and FPGA hardware
+        - Deployed 11 private cloud applications w/ telemetry analytics for 100,000 users leveraging Kubernetes, Docker, Splunk
+        
+      role: Software Engineering Intern
+      time: Fall 2022
+      company: Tendo
+      details: |
+        - Utilized TypeScript and custom Bash scripts to automate deployment of international, federated storage system
+        - Transformed 1.2k participant dataset leveraging pandas (Python) and Tableau to create UI / UX recommendations 
+        - Spearheaded AWS DynamoDB project transforming database to meet interoperable standard used by major retailers
+
+    - role: Business Systems Analyst 
+      time: Summer 2022
+      company: Palo Alto Networks
+      details: | 
+        - Worked cross functionally w/ engineers & HR analysts to scale People Technology products from 10,200 to 22,000 users
+        - Converted UI design recommendations into actionable stories for JIRA board by interviewing internal stakeholders
+        - Designed robust system error automations leveraging Slack, ServiceNow, and Workday REST API’s saving 390 hrs/yr
 
     - role: FPGA Cloud Solutions Project Manager
       time: Spring 2022
